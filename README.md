@@ -20,6 +20,11 @@ This repository contains a Python script to automate the processing and printing
 2. Install required Python packages:
    ```
    pip install -r requirements.txt
+   - pandas
+   - openpyxl
+   - python-docx
+   - pywin32
+
    ```
 
 ## Usage
